@@ -5,3 +5,9 @@ body {
   padding: 3rem 1.5rem;
   text-align: center;
 }
+h1 {color: magenta;}
+.btn {color: magenta;}
+body {font-family: Georgia;}
+.carousel-item {height: 500px;
+
+}
